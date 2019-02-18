@@ -1,0 +1,15 @@
+{
+  "name": "voicemaker",
+  "version": "1.0.0",
+  "description": "Voice maker using tts",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "yacaeh",
+  "license": "ISC",
+  "dependencies": {
+    "oddcast-tts-demo": "^1.1.1",
+    "request": "^2.88.0"
+  }
+}
